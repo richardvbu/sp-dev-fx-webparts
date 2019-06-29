@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/rvernon0622/b74500cd-1be4-4100-8546-f50b8524b876/6d640039-bcf1-478e-ac90-2bcc6e09d92b/_apis/work/boardbadge/17dc7401-f6da-46d5-a8b4-bb1205da65ff)](https://dev.azure.com/rvernon0622/b74500cd-1be4-4100-8546-f50b8524b876/_boards/board/t/6d640039-bcf1-478e-ac90-2bcc6e09d92b/Microsoft.RequirementCategory)
 # SharePoint Framework Client-Side Web Part Samples & Tutorial Materials
 
 This repository contains community samples that demonstrate different usage patterns for the SharePoint Framework client-side web parts.
